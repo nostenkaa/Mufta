@@ -1,0 +1,41 @@
+﻿  CourseProjectView.cpp
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(99,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(102,10): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(122,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(125,11): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(154,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(157,10): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(177,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(180,11): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(209,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(212,10): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(232,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(235,11): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+C:\Users\minch\Desktop\Курсовой проект\CourseProject\CourseProject\CourseProjectView.cpp(1004,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "/CourseProjectView.cpp")
+  
+  CourseProject.vcxproj -> C:\Users\minch\Desktop\Курсовой проект\CourseProject\x64\Debug\CourseProject.exe
